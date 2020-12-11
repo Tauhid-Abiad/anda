@@ -1,0 +1,94 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: comfortaa;
+}
+body{
+	background-color: #2e2a29;
+}
+h1{
+	font-size: 300%;
+	margin: 3% 0% 0% 5%;
+	float: left;
+	color: #2e2a29;
+}
+nav{
+	font-size: 120%;
+	float: right;
+	width: 30%;
+	display: inline-block;
+	margin:4.1% 0% 0% 0%;
+}
+nav>a{
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+	margin-right: 7%;
+	padding: 7px;
+	border: 1px solid #ff8c5e;
+	border-radius: 15px;
+	color: #ff8c5e;
+	background-color: #2e2a29;
+}
+a:hover{
+	color: #ffffff;
+}
+h5{
+
+	clear: both;
+	display: block;
+	color: #ffffff;
+	margin: 8% 0% 5% 8%;
+}
+header{
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
+	width: 100%;
+	height: 150px;
+	background-color: #ff8c5e;
+}
+h2{
+	line-height: 150%;
+	color: #ffffff;
+	text-align: center;
+	font-size: 150%;
+	margin-top: 3%;
+}
+section{
+	width: 20%;
+	margin: 5%;
+	margin-top: 3%;
+	display: inline-block;
+}
+p{
+	font-size: 150%;
+	color: #ffffff;
+	text-align: center;
+	padding: 2%;
+	border: 1px solid;
+	border-radius: 35px 35px 0px 0px;
+	background-color: #ff8c5e;
+}
+section img{
+	border: solid 2px #ffffff;
+	display: block;
+	width:100%;
+	border-radius: 0px 0px 35px 35px;
+}
+p.u{
+	border-radius: 0px 0px 35px 35px;
+}
+div{
+	margin-left: 7%;
+}
+footer{
+	background-color: white;
+	line-height: 150%;
+}
+footer>div{
+	text-align: center;
+	font-size: 100%;
+	padding: 2%;
+}
